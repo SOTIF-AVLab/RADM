@@ -8,11 +8,13 @@ Case 1: Pedestrian crosses intersection illegally
 
 VMPC:
 
-https://user-images.githubusercontent.com/52814283/216959722-9430837d-8b7b-41a1-852d-a7e7cc227690.mp4
+Uploading WithoutConsidering_UQ_exp1.mp4…
+
+
 
 RADM:
 
-https://user-images.githubusercontent.com/52814283/216959768-22062580-eb9c-48f3-b696-e2296600afe6.mp4
+https://user-images.githubusercontent.com/52814283/221112342-6f44e3b4-257d-446d-b77a-b05a9d68b70b.mp4
 
 Case 2: Non-motorized vehicle turns left illegally
 
