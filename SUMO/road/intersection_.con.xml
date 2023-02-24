@@ -1,0 +1,7 @@
+<connections>
+   <connection from="L01" to="L12" fromLane="0" toLane="0" />
+   <connection from="L01" to="L13" fromLane="0" toLane="0" />
+   <connection from="L21" to="L10" fromLane="0" toLane="0" />
+   <connection from="L21" to="L14" fromLane="0" toLane="0" />
+   <connection from="L73" to="L31" fromLane="0" toLane="0" />
+</connections>

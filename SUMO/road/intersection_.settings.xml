@@ -1,0 +1,8 @@
+<viewsettings>
+   <viewport x="4000" y="4000" zoom="1400"/>
+   <delay value="200"/>
+   <scheme name="real world"/>
+   <scheme>
+      <polys polyName_show="1" polyName_color="0,0,0" polyName_size="100.00"/>
+   </scheme>
+</viewsettings>
