@@ -12,8 +12,7 @@ https://user-images.githubusercontent.com/52814283/221113009-11c351ba-8a4a-4b99-
 ### Case 2: Non-motorized vehicle turns left illegally
 VMPC |　RADM
 :-------------------------:|:-------------------------:
-https://user-images.githubusercontent.com/52814283/216960186-a322327e-d426-409c-956b-701d51aae963.mp4 |
-https://user-images.githubusercontent.com/52814283/216960250-8e3c4f89-ef68-4fc1-b7a5-7989d5d075cb.mp4
+https://user-images.githubusercontent.com/52814283/216960186-a322327e-d426-409c-956b-701d51aae963.mp4 | https://user-images.githubusercontent.com/52814283/216960250-8e3c4f89-ef68-4fc1-b7a5-7989d5d075cb.mp4
 
 ###Case 3: Non-motorized vehicle making the U-Turn illegally
 
