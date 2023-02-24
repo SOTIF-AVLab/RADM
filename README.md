@@ -9,25 +9,10 @@ VMPC |　RADM
 :-------------------------:|:-------------------------:
 https://user-images.githubusercontent.com/52814283/221113009-11c351ba-8a4a-4b99-b4a0-b3c2ca083540.mp4 | https://user-images.githubusercontent.com/52814283/221112342-6f44e3b4-257d-446d-b77a-b05a9d68b70b.mp4
 
-#### VMPC:
-<video id="video" controls="" preload="none" poster="none" >
-  <source id="mp4" src="https://user-images.githubusercontent.com/52814283/221113009-11c351ba-8a4a-4b99-b4a0-b3c2ca083540.mp4" type="video/mp4">
-</videos>
-
-https://user-images.githubusercontent.com/52814283/221113009-11c351ba-8a4a-4b99-b4a0-b3c2ca083540.mp4
-
-#### RADM:
-
-https://user-images.githubusercontent.com/52814283/221112342-6f44e3b4-257d-446d-b77a-b05a9d68b70b.mp4
-
 ### Case 2: Non-motorized vehicle turns left illegally
-
-####VMPC:
-
-https://user-images.githubusercontent.com/52814283/216960186-a322327e-d426-409c-956b-701d51aae963.mp4
-
-####RADM:
-
+VMPC |　RADM
+:-------------------------:|:-------------------------:
+https://user-images.githubusercontent.com/52814283/216960186-a322327e-d426-409c-956b-701d51aae963.mp4 |
 https://user-images.githubusercontent.com/52814283/216960250-8e3c4f89-ef68-4fc1-b7a5-7989d5d075cb.mp4
 
 ###Case 3: Non-motorized vehicle making the U-Turn illegally
