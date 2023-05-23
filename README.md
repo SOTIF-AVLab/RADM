@@ -38,7 +38,7 @@ https://github.com/SOTIF-AVLab/RADM/assets/52814283/649fdc3b-07e9-4762-b8b0-2362
 https://github.com/SOTIF-AVLab/RADM/assets/52814283/9d666bac-6544-4d36-ba37-644d6e7d3edf
 
 #### Case 4-Non-motorized vehicles crossing intersection illegally
-https://github.com/SOTIF-AVLab/RADM/assets/52814283/114c354a-2629-44d6-b301-81e87d89a08e
+https://github.com/SOTIF-AVLab/RADM/assets/52814283/5d14d2a8-c0e2-4a67-920c-6cd5c6c91d7d
 
 #### Case 5-Non-motorized vehicles crossing intersection illegally
-https://github.com/SOTIF-AVLab/RADM/assets/52814283/5d14d2a8-c0e2-4a67-920c-6cd5c6c91d7d
+https://github.com/SOTIF-AVLab/RADM/assets/52814283/114c354a-2629-44d6-b301-81e87d89a08e
